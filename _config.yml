@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:csbioatmnnu/csbioatmnnu.github.io.git
+  branch: main
